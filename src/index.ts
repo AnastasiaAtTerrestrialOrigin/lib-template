@@ -5,4 +5,3 @@ export interface HelloWorldOptions {
 export function helloWorld(options: HelloWorldOptions) {
     console.log(`Hello, ${options.name}!`);
 }
-
