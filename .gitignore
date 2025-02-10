@@ -37,3 +37,6 @@ logs/
 
 # Optional REPL history
 .node_repl_history 
+
+# npm pack output
+*.tgz
