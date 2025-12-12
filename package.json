@@ -1,7 +1,6 @@
 {
   "name": "{{projectName}}",
   "version": "0.0.0",
-  "type": "module",
   "description": "{{description}}",
   "main": "dist/index.js",
   "module": "dist/index.js",
